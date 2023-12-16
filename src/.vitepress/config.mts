@@ -14,6 +14,8 @@ export default defineConfig({
       { text: '路线图', link: '/roadmap' }
     ],
 
+    logo: '/logo.svg',
+
     sidebar: {
       '/project/': [
         {
@@ -26,9 +28,9 @@ export default defineConfig({
       ]
     },
 
-    // socialLinks: [
-    //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    // ],
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/0xf4240Fans' }
+    ],
 
     footer: {
       message: '<a href="https://beian.miit.gov.cn">浙ICP备2022033936号-1</a>',

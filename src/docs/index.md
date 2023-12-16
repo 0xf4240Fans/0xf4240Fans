@@ -6,6 +6,9 @@ hero:
   name: "0到100万"
   text: "如何从0赚到100万"
   tagline: 老年程序员的自由职业之路
+  image:
+    src: /hero.png
+    alt: 一人企业
   actions:
     - theme: brand
       text: 开始赚钱
