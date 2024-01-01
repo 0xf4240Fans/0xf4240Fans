@@ -12,7 +12,7 @@
 
 目前有一个小而美的创业团队和创业方向，2024年要做大做强，再创辉煌!
 
-![做大做强](./images/zdzq.jpeg)
+![做大做强](/images/zdzq.jpeg)
 
 ## 持续的学习/分享
 
@@ -24,7 +24,7 @@
 - 边学边动手
 - 分享给更多的人
 
-![feynman](./images/feynman.png)
+![feynman](/images/feynman.png)
 
 > (只要是)我不能创造的，我就(还)没有理解。 -- 费曼
 > - https://www.quora.com/What-did-Richard-Feynman-mean-when-he-said-What-I-cannot-create-I-do-not-understand
@@ -33,7 +33,7 @@
 
 技多不压身，不会送外卖的程序员不是一个好厨师。
 
-![送外卖](./images/swm.jpg)
+![送外卖](/images/swm.jpg)
 
 ## 收获 0.1 个小目标
 
@@ -41,4 +41,4 @@
 
 持续更新，记录小目标实现的过程...
 
-![小目标](./images/xmb.png)
+![小目标](/images/xmb.png)
