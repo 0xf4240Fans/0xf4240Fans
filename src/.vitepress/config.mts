@@ -8,9 +8,10 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '简历', link: '/resume' },
+      { text: '@2024', link: '/resume' },
       { text: '项目', link: '/project/' },
       { text: '博客', link: '/blog/' },
+      { text: '周刊', link: '/hack/' },
       { text: '路线图', link: '/roadmap' }
     ],
 
@@ -21,8 +22,15 @@ export default defineConfig({
         {
           text: '项目',
           items: [
-            // { text: 'Markdown Examples', link: '/markdown-examples' },
-            // { text: 'Runtime API Examples', link: '/api-examples' }
+            { text: 'Easy DouYin', link: '/project/easydouyin/index' }
+          ]
+        }
+      ],
+      '/hack/': [
+        {
+          text: '周刊',
+          items: [
+            { text: '202401', link: '/hack/2024/week01' }
           ]
         }
       ]
