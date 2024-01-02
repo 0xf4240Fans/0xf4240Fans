@@ -13,3 +13,9 @@
 - x64 汇编与指令编码。了解机器的工作原理。
 - 将字节码翻译成 x64 代码。连接虚拟机与真实机器。
 - 生成二进制可执行文件。将所有组件整合在一起。
+
+## 相关资源
+
+- [From Source Code To Machine Code](https://build-your-own.org/compiler/)
+- [PDF下载](https://salttiger.com/from-source-code-to-machine-code-build-your-own-compiler-from-scratch/)
+- [AI 加持的代码编写实战：快速实现 Nginx 配置格式化工具](https://soulteary.com/2023/05/20/code-writing-practice-supported-by-ai-quickly-implement-nginx-configuration-formatting-tool.html)
