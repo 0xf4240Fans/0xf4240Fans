@@ -31,7 +31,9 @@ export default defineConfig({
         {
           text: '周刊',
           items: [
-            { text: '202401', link: '/hack/2024/week01' }
+            { text: '202401: 编译器', link: '/hack/2024/week01' },
+            { text: '202402: Redis', link: '/hack/2024/week02' },
+            { text: '202403: 数据库', link: '/hack/2024/week03' }
           ]
         }
       ],

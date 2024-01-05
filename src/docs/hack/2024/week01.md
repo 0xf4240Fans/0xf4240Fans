@@ -19,3 +19,6 @@
 - [From Source Code To Machine Code](https://build-your-own.org/compiler/)
 - [PDF下载](https://salttiger.com/from-source-code-to-machine-code-build-your-own-compiler-from-scratch/)
 - [AI 加持的代码编写实战：快速实现 Nginx 配置格式化工具](https://soulteary.com/2023/05/20/code-writing-practice-supported-by-ai-quickly-implement-nginx-configuration-formatting-tool.html)
+- [Learn AI-Assisted Python Programming: With GitHub Copilot and ChatGPT](https://salttiger.com/learn-ai-assisted-python-programming-with-github-copilot-and-chatgpt/)
+- [Regular Expression Puzzles and AI Coding Assistants](https://salttiger.com/regular-expression-puzzles-and-ai-coding-assistants/)
+- [Modern Generative AI with ChatGPT and OpenAI Models](https://salttiger.com/modern-generative-ai-with-chatgpt-and-openai-models/)
